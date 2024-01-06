@@ -1,0 +1,1 @@
+# This file will eventually explain how cosine similarity is implemented in various parts of the project and why it was chosen
