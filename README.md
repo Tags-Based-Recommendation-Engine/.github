@@ -10,3 +10,5 @@ There are 4 main repositories:
 
 ## Contributing
 Fork the repository you want to contribute to and create pull requests. Create issue for bugs or feature requests.
+
+## Setting up
