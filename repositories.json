@@ -1,1 +1,4 @@
-{"link": "https://github.com/Tags-Based-Recommendation-Engine/.github.git", "path":".github"}
+[
+    {"link": "https://github.com/Tags-Based-Recommendation-Engine/.github.git", "path": ".github"},
+    {"link": "https://github.com/Tags-Based-Recommendation-Engine/scripts.git", "path": "scripts"}
+]
