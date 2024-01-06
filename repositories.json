@@ -1,4 +1,6 @@
 [
     {"link": "https://github.com/Tags-Based-Recommendation-Engine/.github.git", "path": ".github"},
-    {"link": "https://github.com/Tags-Based-Recommendation-Engine/scripts.git", "path": "scripts"}
+    {"link": "https://github.com/Tags-Based-Recommendation-Engine/scripts.git", "path": "scripts"},
+    {"link": "https://github.com/Tags-Based-Recommendation-Engine/engine-control.git", "path": "engine-control"},
+    {"link": "https://github.com/Tags-Based-Recommendation-Engine/storefront.git", "path": "storefront"}
 ]
