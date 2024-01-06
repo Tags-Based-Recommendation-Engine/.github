@@ -3,9 +3,9 @@ A simple yet effective way of generating recommendations based on tags using [co
 
 ## Project Structure
 There are 4 main repositories: 
-- [analytics](): Frontend for providing data analytics, based on Django.
-- [recommendation-control](): A UI for triggering various script operations and also setting up automation, based on Django.
-- [storefront](): An example webstore to showcase the functionality of the recommendation engine, based on Django.
+- [analytics](): Frontend for providing data analytics, based on Django. (To be added later)
+- [engine-control](https://github.com/Tags-Based-Recommendation-Engine/engine-control): A UI for triggering various script operations and also setting up automation, based on Django.
+- [storefront](https://github.com/Tags-Based-Recommendation-Engine/storefront): An example webstore to showcase the functionality of the recommendation engine, based on Django.
 - [scripts](https://github.com/Tags-Based-Recommendation-Engine/scripts): Various scripts used for generation of recommendations, analytics etc.
 
 ## Contributing
