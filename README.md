@@ -3,7 +3,10 @@ A simple yet effective way of generating recommendations based on tags using [co
 
 ## Project Structure
 There are 4 main repositories: 
-- [analytics]()
-- [recommendation-control]()
-- [storefront]()
-- [scripts]()
+- [analytics](): Frontend for providing data analytics, based on Django.
+- [recommendation-control](): A UI for triggering various script operations and also setting up automation, based on Django.
+- [storefront](): An example webstore to showcase the functionality of the recommendation engine, based on Django.
+- [scripts](): Various scripts used for generation of recommendations, analytics etc.
+
+## Contributing
+Fork the repository you want to contribute to and create pull requests. Create issue for bugs or feature requests.
