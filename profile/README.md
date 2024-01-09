@@ -12,4 +12,4 @@ There are 4 main repositories:
 Fork the repository you want to contribute to and create pull requests. Create issue for bugs or feature requests.
 
 ## Setting up
-Run the setup.py script under scripts.
+Run the setup_project.py script under scripts.
